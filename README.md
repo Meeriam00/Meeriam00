@@ -11,5 +11,6 @@
 **Languages:** HTML5, CSS3, JavaScript, TypeScript  
 **Frameworks & Libraries:** React, Redux, Redux Toolkit, RTK Query, Context API, RESTful API  
 **Styling:** Tailwind CSS, Bootstrap, SCSS/SASS, Responsive Design, i18n
+
 **Tools:** Git, VS Code, Figma
 
