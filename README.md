@@ -48,12 +48,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meryemabdullayeva&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 <h3 align="center">✨ Keep coding, keep growing ✨</h3>
