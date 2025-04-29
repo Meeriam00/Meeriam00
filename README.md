@@ -16,5 +16,3 @@
 **Styling:** Tailwind CSS, Bootstrap, SCSS/SASS, Responsive Design  
 **Tools:** Git, VS Code, Figma
 
----
-<h3 align="center">✨ Keep coding, keep growing ✨</h3>
