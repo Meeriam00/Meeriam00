@@ -1,7 +1,4 @@
-<h1 align="center">Hi there, I'm Meryem 👋</h1>
-<p align="center">
-  🌐 Frontend Developer | 💡 UI enthusiast | 🎯 Passionate about learning
-</p>
+<h1 align="center">Hi there, I'm Meeriam 👋</h1>
 
 ### 🚀 About Me
 - 🌱 I’m currently learning and improving my web development skills.
